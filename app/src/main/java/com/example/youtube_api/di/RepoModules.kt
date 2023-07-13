@@ -1,0 +1,1 @@
+package com.example.youtube_api.diimport com.example.youtube_api.repositories.Repositoryimport org.koin.dsl.moduleval repoModules = module {    single { Repository(get()) }}

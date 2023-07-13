@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">YouTube-Api</string>
+    <string name="todo">TODO</string>
+    <string name="title"><![CDATA[Emotional Well-being & Healing Practices for Children]]></string>
+    <string name="try_again">Try again</string>
+    <string name="pla">Playlist</string>
+    <string name="playlist">Playlist</string>
+    <string name="back">Back</string>
+    <string name="fab_button">FAB button</string>
+    <string name="media_url_mp4">https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4</string>
+    <string name="download">Download</string>
+</resources>
